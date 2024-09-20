@@ -1,7 +1,6 @@
 # Chat-O-Box
 
 ## Overview
-
 Chat-O-Box is a real-time messaging application inspired by WhatsApp, featuring user registration, text messaging, group chat functionality, and an AI-powered chatbot for user assistance. 
 
 ## System Design Document
