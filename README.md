@@ -1,8 +1,8 @@
 ## Introduction
-Name : Krishna Kant  
-Email : 3747krishna@gmail.com  
-University : Indian Institute of Technology , Patna  
-Dept : Computer Science and Engineering  
+**Name** : Krishna Kant  
+**Email** : 3747krishna@gmail.com  
+**University** : Indian Institute of Technology , Patna  
+**Dept** : Computer Science and Engineering  
 
 ## Overview
 Chat-O-Box is a real-time messaging application inspired by WhatsApp, featuring user registration, text messaging, group chat functionality, and an AI-powered chatbot for user assistance. 
