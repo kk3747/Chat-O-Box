@@ -5,7 +5,7 @@
 **Dept** : Computer Science and Engineering  
 
 ## Overview
-Chat-O-Box is a real-time messaging application inspired by WhatsApp, featuring user registration, text messaging, group chat functionality, and an AI-powered chatbot for user assistance. 
+Chat-O-Box is a real-time messaging application inspired by WhatsApp, featuring user registration, text messaging and group chat functionality. 
 
 ## System Design Document
 
@@ -22,18 +22,16 @@ The application follows a client-server architecture:
 1. **Frontend**:
    - **Chat Component**: Displays chat messages and allows user input.
    - **User Authentication**: Handles user registration and login.
-   - **Chatbot Integration**: Connects to the OpenAI API for chatbot responses.
 
 2. **Backend**:
    - **User Management**: REST APIs for user registration and login.
    - **Message Management**: WebSocket for real-time message broadcasting and REST API for fetching messages.
-   - **Chatbot API Integration**: Sends user messages to OpenAI for generating responses.
 
 ### Technology Stack
 
 - **Frontend**:
   - React: For building the user interface.
-  - Axios: For making HTTP requests to the backend and OpenAI API.
+  - Axios: For making HTTP requests to the backend.
   
 - **Backend**:
   - Node.js: Server-side JavaScript runtime.
@@ -49,4 +47,3 @@ The application follows a client-server architecture:
 
 - Node.js (v14 or higher)
 - MongoDB (running locally or a cloud instance)
-- OpenAI API key (for chatbot functionality)
